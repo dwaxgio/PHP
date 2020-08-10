@@ -8,7 +8,10 @@
 <body>
     <!-- Comentario -->
     <div class="container">
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Recusandae nihil odit eos corporis excepturi debitis quos quaerat, neque minima error optio veniam explicabo unde sequi id perferendis tempore eaque provident!</p>
+        <h2>prueba php</h2>
+        <?php
+            echo "Hello world";
+        ?>
     </div>
 </body>
 </html>
