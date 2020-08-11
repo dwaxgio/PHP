@@ -25,7 +25,17 @@
 
             echo 'Multidimensional array</br>';
 
-            
+            $juegos = array (
+                "xbox" => array ("Halo", 'GOW'),
+                'ps' => array ('GOW', 'Horizon'),
+                'pc' => array (
+                    0 => 'AOE', 
+                    1 => 'Civilization'
+                    )
+            );
+            echo $juegos["pc"][0];
+
+
             
         ?>
     </div>
