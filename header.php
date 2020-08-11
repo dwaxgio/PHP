@@ -5,5 +5,7 @@
 <a href="/CURSO_PHP_GURU99/2_ARRAYS.php">2. Arrays</a>
     |
 <a href="/CURSO_PHP_GURU99/3_CONDITIONALS.php">3. CONDITIONALS</a>
+    |
+<a href="/CURSO_PHP_GURU99/4_LOOPS.php">4. LOOPS</a>
 
 </br></br></br>
