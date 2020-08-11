@@ -8,9 +8,9 @@
 <body>
     <!-- Comentario -->
     <div class="container">
-        <h2>prueba php</h2>
+        <h2>INDICE TUTORIAL PHP</h2>
         <?php
-            echo "Hello world";
+            include 'header.php';
         ?>
     </div>
 </body>
