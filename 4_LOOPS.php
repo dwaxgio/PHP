@@ -24,7 +24,7 @@
             $animales = array("perro", "gato");
             foreach($animales as $item)
             {
-                echo $item . "</br>";
+                echo $item . "</br>"; //
             }
         
 
